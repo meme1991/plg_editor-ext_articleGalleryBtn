@@ -13,5 +13,6 @@
 		<filename plugin="articlegallerybtn">articlegallerybtn.php</filename>
 		<filename>display.php</filename>
 		<folder>language</folder>
+		<folder>dist</folder>
 	</files>
 </extension>
