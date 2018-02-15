@@ -168,6 +168,7 @@
                  <option value="thumb_slider">Slider</option>
                  <option value="grid">Griglia</option>
                  <option value="masonry">Griglia fluida</option>
+                 <option value="grid_fluid">Griglia fluida 2</option>
                </select>
              </td>
            </tr>
