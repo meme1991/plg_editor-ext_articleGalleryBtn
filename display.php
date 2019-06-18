@@ -169,6 +169,8 @@
                  <option value="grid">Griglia</option>
                  <option value="masonry">Griglia fluida</option>
                  <option value="grid_fluid">Griglia fluida 2</option>
+                 <option value="table-orizzontal">Tabella orizzontale</option>
+                 <option value="table-vertical">Tabella verticale</option>
                </select>
              </td>
            </tr>
