@@ -13,7 +13,7 @@
   require_once ( JPATH_BASE.DS.'includes'.DS.'defines.php' );
   require_once ( JPATH_BASE.DS.'includes'.DS.'framework.php' );
 
-  $mainframe = JFactory::getApplication('administrator');
+  //$mainframe = JFactory::getApplication('administrator');
   jimport( 'joomla.plugin.plugin' );
   $ih_name = addslashes( $_GET['ih_name'] );
 
