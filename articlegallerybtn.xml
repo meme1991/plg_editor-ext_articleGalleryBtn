@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.1" type="plugin" group="editors-xtd" method="upgrade">
+<extension version="4" type="plugin" group="editors-xtd" method="upgrade">
 	<name>PLG_EDITORS-XTD_ARTICLEGALLERYBTN</name>
 	<author>SPEDI srl</author>
-	<creationDate>Gennaio 2018</creationDate>
+	<creationDate>Aprile 2023</creationDate>
   <copyright>Copyright (C) SPEDI srl</copyright>
 	<license>GNU/GPL license: http://www.gnu.org/copyleft/gpl.html</license>
   <authorEmail>sviluppo@spedi.it</authorEmail>
 	<authorUrl>http://www.spedi.it</authorUrl>
-	<version>1.0.0</version>
+	<version>2.0.0</version>
 	<description>PLG_EDITORS-XTD_ARTICLEGALLERYBTN_DESC</description>
 	<files>
 		<filename plugin="articlegallerybtn">articlegallerybtn.php</filename>
