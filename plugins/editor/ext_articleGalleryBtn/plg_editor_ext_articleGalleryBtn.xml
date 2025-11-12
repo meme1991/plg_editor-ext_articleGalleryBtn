@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="4.0" method="upgrade" group="editor">
+    <name>plg_editor_ext_articleGalleryBtn</name>
+    <author>meme1991</author>
+    <creationDate>2025-11-12</creationDate>
+    <version>1.0.0</version>
+    <description>Editor button to open article gallery (Joomla 4 compatible)</description>
+
+    <files>
+        <filename plugin="ext_articleGalleryBtn">plg_editor_ext_articleGalleryBtn.php</filename>
+    </files>
+
+    <media folder="media">
+        <folder>plg_editor_ext_articleGalleryBtn</folder>
+    </media>
+
+    <languages>
+        <language tag="en-GB">language/en-GB/en-GB.plg_editor_ext_articleGalleryBtn.ini</language>
+        <language tag="it-IT">language/it-IT/it-IT.plg_editor_ext_articleGalleryBtn.ini</language>
+    </languages>
+
+    <install>
+        <folder>plg_editor_ext_articleGalleryBtn</folder>
+    </install>
+</extension>
